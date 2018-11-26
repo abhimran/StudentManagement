@@ -1,0 +1,1 @@
+Hello, i am abdullah imran(15351013). I create a simple Student Management  System that takes up students data like roll number, student name and marks.
